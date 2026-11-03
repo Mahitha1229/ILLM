@@ -1,0 +1,7 @@
+Model,Accuracy,Macro F1
+Logistic Regression (char TF-IDF),1.0,1.0
+MLP (char TF-IDF),1.0,1.0
+BiLSTM (character-level),1.0,1.0
+BiGRU (character-level),1.0,1.0
+MuRIL fine-tuned,1.0,1.0
+FastText-style (word + subword n-grams),0.9986111111111111,0.9986110869980381
