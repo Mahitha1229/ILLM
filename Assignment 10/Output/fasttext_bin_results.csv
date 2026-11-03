@@ -1,0 +1,5 @@
+bin,test sentences,avg src length,BLEU,chrF,src OOV %
+bin1,500,7.4,13.8,26.52,3.77
+bin2,500,15.2,9.93,25.04,3.18
+bin3,500,24.3,7.55,23.99,3.08
+bin4,500,37.0,8.83,25.2,2.6
